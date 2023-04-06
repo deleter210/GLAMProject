@@ -1,0 +1,15 @@
+{
+  "cls_token": "[CLS]",
+  "do_basic_tokenize": true,
+  "do_lower_case": true,
+  "mask_token": "[MASK]",
+  "name_or_path": "alexaapo/greek_legal_bert_v2",
+  "never_split": null,
+  "pad_token": "[PAD]",
+  "sep_token": "[SEP]",
+  "special_tokens_map_file": "/root/.cache/huggingface/hub/models--alexaapo--greek_legal_bert_v2/snapshots/3d9b92e5eadd0eb757a9b3afb8391f7b2ed50109/special_tokens_map.json",
+  "strip_accents": null,
+  "tokenize_chinese_chars": true,
+  "tokenizer_class": "BertTokenizer",
+  "unk_token": "[UNK]"
+}
